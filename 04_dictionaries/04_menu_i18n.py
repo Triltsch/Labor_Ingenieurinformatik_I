@@ -1,6 +1,6 @@
 """
  Dieses Pythonscript zeigt die Nutzung von Dictionaries
- in der I18n einer Menues
+ in der I18n eines Menüs
 
 @created: 02.11.2022
 @author: U.Triltsch
